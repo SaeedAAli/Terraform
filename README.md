@@ -54,4 +54,10 @@ Terraform apply
 
 ## Results After doing this
 
+![Terraform screenshot](https://raw.githubusercontent.com/SaeedAAli/Terraform/refs/heads/main/Screenshot%202026-03-26%20at%2019.41.05.png)
+
+![Terraform screenshot](https://raw.githubusercontent.com/SaeedAAli/Terraform/refs/heads/main/Screenshot%202026-03-26%20at%2019.42.50%20(2).png)
+
+
+
 
