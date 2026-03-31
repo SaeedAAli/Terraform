@@ -59,5 +59,8 @@ Terraform apply
 ![Terraform screenshot](https://raw.githubusercontent.com/SaeedAAli/Terraform/refs/heads/main/Screenshot%202026-03-26%20at%2019.42.50%20(2).png)
 
 
-
+## Conclusion after
+* It was quite difficult to adapt after learning multiple programming languages but after trial and error it just clicked
+* Documentation variers from cloud providers to cloud providers
+* Syntax for Terraform isnt as similar as to other well known languages even though this was my first time using an Agnostic Tool
 
